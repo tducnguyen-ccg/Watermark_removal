@@ -3,7 +3,7 @@ A simple way for removing dot watermark background from the document
 
 ## Content
 The input image contains the watermark background, we try to remove it  out using Laplacian and Median filter
-![Input image|1314x758,10%](./images/add_watermark.png)
+![Input image|1314x758,50%](./images/add_watermark.png)
 
 ## Requirements
 * OpenCV
